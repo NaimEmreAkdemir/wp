@@ -8,7 +8,7 @@ permalink: http://localhost/a/ornek-sayfa/
 published: true
 post_date: 2018-08-27 20:13:13
 ---
-Bu örnek bir sayfadır. Bir blog yazısından farklıdır çünkü belirli bir yerde sabit olarak kalır ve temanızın dolaşım menüsünde başlığı görüntülenir(çoğu tema destekler). Bir çok insan potansiyel ziyaretçilerini karşılamak adına bir Hakkında sayfası kullanır. Şuna benzeyen bir sayfa:
+[booking]Bu örnek bir sayfadır. Bir blog yazısından farklıdır çünkü belirli bir yerde sabit olarak kalır ve temanızın dolaşım menüsünde başlığı görüntülenir(çoğu tema destekler). Bir çok insan potansiyel ziyaretçilerini karşılamak adına bir Hakkında sayfası kullanır. Şuna benzeyen bir sayfa:
 
 <blockquote>Merhaba! Gündüzleri bisikletli kurye, geceleri ise hevesli bir aktörüm, burası da benim sitem. İstanbul&#8217;da yaşıyorum, Bıdık isminde harika bir köpeğim var ve pi&#241;a colada içmeyi seviyorum. (Ve yağmura yakalanmayı.)</blockquote>
 
